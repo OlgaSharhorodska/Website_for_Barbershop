@@ -783,6 +783,8 @@ img {
 
 .about-img {
     transition: transform 1200ms linear;
+    width: 270px;
+    height: 445px;
 }
 
 .about-item:hover .about-img {
