@@ -412,13 +412,13 @@ img {
 */
 @media only screen and (max-width: 767px) {
     .hero {
-        /* background-color: var(--dark-cl); */
+        background-color: var(--dark-cl);
 
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
 
-        background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_tab@1x.jpg);
+        background-image:var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_tab@1x.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
@@ -432,14 +432,14 @@ img {
 
 @media only screen and (max-width: 480px) {
     .hero {
-        background-image: var(--image-filter), url(../images/hero/slider-img-3_mob@1x.jpg);
+        background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_mob@1x.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
         .hero {
-            background-image: var(--image-filter), url(../images/hero/slider-img-3_mob@2x.jpg);
+            background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_mob@2x.jpg);
         }
     }
 }
@@ -514,14 +514,14 @@ img {
         padding-bottom: 237px;
         padding-left: 100px;
         background-color: var(--dark-cl);
-        background-image: var(--image-filter), url(../images/hero/slider-img-3_tab@1x.jpg);
+        background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_tab@1x.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
         .hero-right-side {
-            background-image: var(--image-filter), url(../images/hero/slider-img-3_tab@2x.jpg);
+            background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_tab@2x.jpg);
         }
     }
 }
@@ -529,14 +529,14 @@ img {
 @media only screen and (min-width: 1200px) {
     .hero-right-side {
         padding-bottom: 208px;
-        background-image: var(--image-filter), url(../images/hero/slider-img-3_desk@1x.jpg);
+        background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_desk@1x.jpg);
     }
 
     @media (min-device-pixel-ratio: 2),
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
         .hero-right-side {
-            background-image: var(--image-filter), url(../images/hero/slider-img-3_desk@2x.jpg);
+            background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_desk@2x.jpg);
         }
     }
 }
