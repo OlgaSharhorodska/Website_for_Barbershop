@@ -513,7 +513,7 @@ img {
         padding-top: 272px;
         padding-bottom: 237px;
         padding-left: 100px;
-        background-color: var(--dark-cl);
+        /* background-color: var(--dark-cl); */
         background-image: var(--image-filter), url(../Website_for_Barbershop/images/hero/slider-img-3_tab@1x.jpg);
     }
 
