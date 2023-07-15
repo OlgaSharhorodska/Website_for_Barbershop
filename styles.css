@@ -1318,6 +1318,11 @@ img {
     padding-left: 100px;
 }
 
+/* @media only screen and (min-width: 769px) {
+    .contacts {
+        background-image: url(../Website_for_Barbershop/images/contacts/);
+    }} */
+
 .contacts-address {
     margin-bottom: 72px;
     font-style: normal;
